@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New_Directions_in_Cryptography/01_New_Directions_in_Cryptography.md",
+                "file": "如何开启一个很好的阅读/主题阅读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_New_Directions_in_Cryptography"
+              "title": "主题阅读"
             }
           }
         ]
@@ -189,9 +189,9 @@
   },
   "active": "be65fd4d4860a1ab",
   "lastOpenFiles": [
+    "New_Directions_in_Cryptography/01_New_Directions_in_Cryptography.md",
     "新建文本文档.txt",
     "如何开启一个很好的阅读/检视阅读.md",
-    "New_Directions_in_Cryptography/01_New_Directions_in_Cryptography.md",
     "New_Directions_in_Cryptography",
     "未命名.canvas",
     "如何开启一个很好的阅读/主题阅读.md",
@@ -217,7 +217,6 @@
     "新建文件夹/思维导图/对称加密.mm",
     "新建文件夹/思维导图",
     "新建文件夹",
-    "现代密码学 - 快捷方式.lnk",
     "欢迎.md",
     "创建链接.md"
   ]
