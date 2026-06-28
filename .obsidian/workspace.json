@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何开启一个很好的阅读/主题阅读.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主题阅读"
+              "title": "README"
             }
           }
         ]
@@ -198,10 +198,11 @@
   },
   "active": "8807f85b8b17794b",
   "lastOpenFiles": [
+    "如何开启一个很好的阅读/主题阅读.md",
+    "README.md",
     "New_Directions_in_Cryptography/01_New_Directions_in_Cryptography.md",
     "如何开启一个很好的阅读/分析阅读.md",
     "如何开启一个很好的阅读/检视阅读.md",
-    "如何开启一个很好的阅读/主题阅读.md",
     "新建文本文档.txt",
     "New_Directions_in_Cryptography",
     "未命名.canvas",
