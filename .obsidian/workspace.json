@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何开启一个很好的阅读/主题阅读.md",
+                "file": "New_Directions_in_Cryptography/01_New_Directions_in_Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主题阅读"
+              "title": "01_New_Directions_in_Cryptography"
             }
           }
         ]
@@ -181,7 +181,6 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "random-note:开始漫游笔记": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false
@@ -189,15 +188,15 @@
   },
   "active": "be65fd4d4860a1ab",
   "lastOpenFiles": [
+    "如何开启一个很好的阅读/分析阅读.md",
+    "如何开启一个很好的阅读/检视阅读.md",
+    "如何开启一个很好的阅读/主题阅读.md",
     "New_Directions_in_Cryptography/01_New_Directions_in_Cryptography.md",
     "新建文本文档.txt",
-    "如何开启一个很好的阅读/检视阅读.md",
     "New_Directions_in_Cryptography",
     "未命名.canvas",
-    "如何开启一个很好的阅读/主题阅读.md",
     "如何开启一个很好的阅读/01_如何开启一个很好的阅读.md",
     "未命名.base",
-    "如何开启一个很好的阅读/分析阅读.md",
     "如何开启一个很好的阅读",
     "证明安全.md",
     "现代密码学/04_消息鉴别码和抗碰撞散列函数.md",
